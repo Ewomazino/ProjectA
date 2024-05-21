@@ -1,9 +1,13 @@
+
 import React from 'react';
+//import { useAuth } from '../context/AuthContext';
+
 import Navbar from './Navbar';
 import Footer from './Footer';
-import {useLocation} from 'react-router-dom';
+
 
 const UserDashboard = () => {
+  
   return (
       <>
 <div>

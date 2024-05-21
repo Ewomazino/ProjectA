@@ -21,7 +21,7 @@ const Main = () => {
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
                     <div className="#">
-                        <a href="#" class="btn">Request Delivery Now</a>
+                        <a href="/requestdelivery" class="btn">Request Delivery Now</a>
                     </div>
 
                 </div>
